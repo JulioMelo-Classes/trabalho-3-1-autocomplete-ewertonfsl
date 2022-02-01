@@ -25,4 +25,4 @@ busca binária pelo vetor, ordenação pela frequência, melhor estruturamento d
 ```
 
 ## Limitações
-Fiquei sobrecarregado e acabei dedicando pouco tempo no projeto.
+Fiquei sobrecarregado e acabei dedicando pouco tempo ao projeto.
