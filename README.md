@@ -26,3 +26,38 @@ busca binária pelo vetor, ordenação pela frequência, melhor estruturamento d
 
 ## Limitações
 Fiquei sobrecarregado e acabei dedicando pouco tempo ao projeto.
+
+
+# Avaliação
+
+## Ler e validar os argumentos da linha de comando | 7 / 10
+
+- Faltou validar a quantidade de argumentos, bem como o conteúdo do arquivo.
+
+## Ler os dados da base de dados e armazená-los em uma classe apropriada | 10 / 10
+
+- Vou considerar, embora o nome "Processamento" não tenha ficado muito bom.
+
+## Separar a interface textual das demais classes do sistema concentrando os couts e cins em um único objeto | 3 / 10
+
+- Boa parte da interface ainda ficou faltando
+
+## Implementação de uma classe para conter o resultado da requisição do usuário | 0 / 10
+
+- Acho que você ainda não tinha iniciado a implementação desta classe, mas a ideia eu expliquei na aula.
+
+## Implementação eficiente através de referencias e algoritmos de busca binária | 0 / 10
+
+- Não implementado
+
+## Organização do código em src, include, data | 5 / 5
+
+- ok
+
+## Documentação do código usando o padrão doxygen | 5 / 5
+
+- A documentação do construtor é a mesma dos métodos convencionais
+
+## Implementação e documentação de arquivos de teste | 0 / 10
+
+- Não implementado
